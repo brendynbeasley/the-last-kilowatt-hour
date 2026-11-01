@@ -1,0 +1,6 @@
+test,estimate,std_error,ci95_low,ci95_high,z,n
+"log price on log use, within state",-0.13836,0.00506,-0.14827,-0.12845,-27.36397,18481
+"log price on log use, national",-0.21224,0.00489,-0.22182,-0.20266,-43.42562,18481
+"monthly bill on monthly kWh, national: intercept ($)",24.03170,0.55832,22.93740,25.12600,43.04312,18481
+"monthly bill on monthly kWh, national: slope ($/kWh)",0.10343,0.00069,0.10208,0.10477,150.53005,18481
+"monthly bill on monthly kWh, within state: slope ($/kWh)",0.11279,0.00085,0.11112,0.11445,132.94838,18481

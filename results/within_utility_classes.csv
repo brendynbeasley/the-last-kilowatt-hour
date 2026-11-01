@@ -1,0 +1,2 @@
+utilities,median_resale_cents,median_price_R,median_price_C,median_price_I,median_gap_R_cents,median_gap_C_cents,median_gap_I_cents,share_R_within_2c_of_resale,share_C_within_2c_of_resale,share_I_within_2c_of_resale,share_I_cheapest_class,elasticity_price_wrt_kwh_per_customer,elasticity_se_clustered,elasticity_ci95_low,elasticity_ci95_high,elasticity_p_value,observations
+208,5.3333,14.6434,12.4403,8.9041,9.5042,7.0196,3.7308,0.0962,0.1490,0.3365,0.8990,-0.0845,0.0037,-0.0917,-0.0773,0.0000,624

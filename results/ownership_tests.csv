@@ -1,0 +1,7 @@
+weights,term,estimate,std_error,ci95_low,ci95_high,p_value,n
+utilities weighted equally,Intercept,0.90709,0.01041,0.88668,0.92750,0.00000,1018
+utilities weighted equally,coop,-0.11202,0.01184,-0.13522,-0.08881,0.00000,1018
+utilities weighted equally,public,-0.01910,0.01296,-0.04450,0.00630,0.14043,1018
+weighted by customers,Intercept,0.92512,0.01482,0.89608,0.95416,0.00000,1018
+weighted by customers,coop,-0.12621,0.01586,-0.15730,-0.09512,0.00000,1018
+weighted by customers,public,-0.04721,0.02154,-0.08943,-0.00500,0.02839,1018

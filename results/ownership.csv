@@ -1,0 +1,5 @@
+owner,utilities,residential_customers_millions,declining,flat,increasing,mixed,median_fixed_charge_dollars,unit_price_ratio_1500_to_500,share_unit_price_falls_500_to_1500,utilities_with_class_prices,median_residential_gap_cents,median_industrial_gap_cents
+Cooperative,437,14.7802,0.1832,0.6346,0.0916,0.0906,20.5577,0.7989,0.9896,29,7.3765,1.6567
+Investor-owned,120,87.2447,0.1193,0.4352,0.3892,0.0563,13.6890,0.9251,0.8530,100,11.2113,4.0763
+Public,466,16.5513,0.1233,0.4708,0.3307,0.0751,15.0000,0.8779,0.8608,78,7.1701,3.3065
+Investor-owned outside California,116,76.1600,0.1367,0.4985,0.3003,0.0645,13.5000,0.9038,0.9771,0,,

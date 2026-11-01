@@ -1,0 +1,16 @@
+# Large public downloads, fetched by the scripts on first run (slim copies are committed)
+data/raw/usurdb.csv.gz
+data/raw/recs2020_public_v7.csv
+
+# Secrets
+*.key
+*_key.txt
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store

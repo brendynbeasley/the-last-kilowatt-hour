@@ -1,0 +1,15 @@
+utility,state,ownership,residential_customers,tariff,tariff_start,fixed_dollars_month,shape,marginal_500_cents,marginal_1500_cents,unit_500_cents,unit_1500_cents
+Florida Power & Light Co,FL,Investor Owned,5337118,RS-1 Residential Service,2026-01-01,10.52,increasing,12.26,14.26,14.36,13.63
+Pacific Gas & Electric Co.,CA,Investor Owned,5055556,E-1 -Residential Service Baseline Region Z,2026-03-27,24.14,increasing,40.70,40.70,41.98,41.13
+Southern California Edison Co,CA,Investor Owned,4627247,Domestic Service: D - Baseline Region 9,2024-06-01,0.94,increasing,39.98,43.18,35.50,40.59
+Commonwealth Edison Co,IL,Investor Owned,3753924,BES - Residential Single Family Without Electric Space Heat Delivery Class,2025-01-01,19.52,flat,12.64,12.64,16.54,13.94
+Consolidated Edison Co-NY Inc,NY,Investor Owned,3088999,SC-1 - Residential & Religious Service - Zone J [NYC],2025-02-01,20.00,increasing,37.64,37.64,41.24,38.84
+"Duke Energy Carolinas, LLC",NC,Investor Owned,2543170,Residential Service (RES-55) Single Phase,2026-02-01,11.78,declining,15.15,14.57,17.51,15.67
+Virginia Electric & Power Co,VA,Investor Owned,2517958,Residential Schedule 1,2026-01-01,7.58,mixed,16.28,15.36,17.79,16.36
+Georgia Power Co,GA,Investor Owned,2480484,SCHEDULE R-30 RESIDENTIAL SERVICE,2025-01-01,14.00,increasing,13.83,16.20,16.63,16.06
+DTE Electric Company,MI,Investor Owned,2078328,Residential Service Rate - (Full Service) - D1,2026-04-01,9.75,increasing,22.82,22.82,24.73,23.46
+Public Service Elec & Gas Co,NJ,Investor Owned,2072339,RS - Residential Service,2026-04-01,6.00,increasing,26.94,27.39,28.14,27.61
+PacifiCorp,UT,Investor Owned,1867246,2 Residential Service Single Phase,2026-01-01,24.24,flat,12.18,12.18,17.02,13.79
+"Duke Energy Florida, LLC",FL,Investor Owned,1819962,RS-1 Residential Service,2026-02-01,14.27,increasing,13.77,15.78,16.62,15.39
+Consumers Energy Co - (MI),MI,Investor Owned,1662741,Residential Service Secondary Non-Transmitting Meter Rate (RSM),2025-01-01,8.73,increasing,22.84,24.62,24.58,24.49
+PECO Energy Co,PA,Investor Owned,1538993,Residential Service (R),2026-01-01,11.30,flat,21.88,21.88,24.14,22.64

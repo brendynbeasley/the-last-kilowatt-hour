@@ -1,0 +1,6 @@
+class,customers,kwh_per_customer_month,cents_per_kwh,markup_over_resale_cents
+Residential,127498553.000,890.329,16.615,10.896
+Commercial,16337978.000,5960.172,12.366,6.648
+Industrial,989731.000,70267.722,8.014,2.296
+Sales for resale (wholesale),,,5.718,0.000
+"ICE peak trades, average of 7 hubs",,,5.163,-0.555
